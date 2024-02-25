@@ -5,6 +5,8 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNmFqHj7IvBoTTR1u0c0XWg?style=social)](https://www.youtube.com/channel/UCNmFqHj7IvBoTTR1u0c0XWg?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/JeanpierreSaldivar?style=social)](https://github.com/JeanpierreSaldivar)
+[![Tiktok followers](https://img.shields.io/tiktok/followers/@devjeanpierre?style=social)](https://www.tiktok.com/@devjeanpierre)
+[![Instagram followers](https://img.shields.io/instagram/followers/devjeanpierre?style=social)](https://www.instagram.com/devjeanpierre/?hl=es-la)
 
 ## Sobre mi
 
