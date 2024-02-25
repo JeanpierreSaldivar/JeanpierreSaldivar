@@ -14,12 +14,16 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanpierreSaldivar)
 
 ## Sobre mi
-✨ Ingeniero de Sistemas ✨
-📲 Desarrollador Android Senior con más de 5 años de experiencia en la creación de aplicaciones móviles innovadoras y centradas en el usuario. Especializado en la transformación de ideas complejas en soluciones digitales elegantes y funcionales.
+✨ <b>Ingeniero de Sistemas</b> ✨
+📲 <b>Desarrollador Android Senior</b> con más de 5 años de experiencia en la creación de aplicaciones móviles innovadoras y centradas en el usuario. Especializado en la transformación de ideas complejas en soluciones digitales elegantes y funcionales.
 
-🚀 Actualmente ampliando mi espectro técnico aprendiendo Swift para el desarrollo de aplicaciones iOS nativas, con el objetivo de dominar el ecosistema de aplicaciones móviles en múltiples plataformas.
+🚀 Actualmente ampliando mi espectro técnico aprendiendo <b>Swift</b> para el desarrollo de aplicaciones iOS nativas, con el objetivo de dominar el ecosistema de aplicaciones móviles en múltiples plataformas.
 
-💡 Apasionado por las tecnologías emergentes, me encuentro explorando Kotlin Multiplataforma y Jetpack Compose Multiplataforma para optimizar el desarrollo de aplicaciones y aspirar a ser un Kotlin Full Stack Developer.
+💡 Apasionado por las tecnologías emergentes, me encuentro explorando <b>Kotlin Multiplataforma</b> y <b>Jetpack Compose Multiplataforma</b> para optimizar el desarrollo de aplicaciones y aspirar a ser un <b>Kotlin Full Stack Developer</b>.
 
 🎥 Fuera del código, mi creatividad se manifiesta en la producción de videos de memes, tips y tutoriales de programación, compartiendo conocimientos y risas con una creciente comunidad en línea.
+
+🔍 <b>Eche un vistazo a mi currículum para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!</b>
+
+
 
