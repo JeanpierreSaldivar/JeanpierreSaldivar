@@ -14,12 +14,12 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanpierreSaldivar)
 
 ## Sobre mi
-Soy Senior Android developer con mas de 5 años de experiences desarrollando aplicaciones moviles,
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+40k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+✨ Ingeniero de Sistemas ✨
+📲 Desarrollador Android Senior con más de 5 años de experiencia en la creación de aplicaciones móviles innovadoras y centradas en el usuario. Especializado en la transformación de ideas complejas en soluciones digitales elegantes y funcionales.
+
+🚀 Actualmente ampliando mi espectro técnico aprendiendo Swift para el desarrollo de aplicaciones iOS nativas, con el objetivo de dominar el ecosistema de aplicaciones móviles en múltiples plataformas.
+
+💡 Apasionado por las tecnologías emergentes, me encuentro explorando Kotlin Multiplataforma y Jetpack Compose Multiplataforma para optimizar el desarrollo de aplicaciones y aspirar a ser un Kotlin Full Stack Developer.
+
+🎥 Fuera del código, mi creatividad se manifiesta en la producción de videos de memes, tips y tutoriales de programación, compartiendo conocimientos y risas con una creciente comunidad en línea.
 
