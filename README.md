@@ -27,16 +27,20 @@
 
 🔍 <b>Take a look at my resume for more details about me. I'm open to feedback and suggestions!</b>
 
-<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<p align="center">
+- **Skills**:
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,swift&theme=light)](https://skillicons.dev)
+
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <p align="center">
 <a href="https://github.com/JeanpierreSaldivar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeanpierreSaldivar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanpierreSaldivar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
