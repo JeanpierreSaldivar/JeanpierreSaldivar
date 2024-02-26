@@ -6,12 +6,13 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNmFqHj7IvBoTTR1u0c0XWg?style=social)](https://www.youtube.com/channel/UCNmFqHj7IvBoTTR1u0c0XWg?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/JeanpierreSaldivar?style=social)](https://github.com/JeanpierreSaldivar)
 
-## Sigueme en:
+## Follow me and contact me:
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNmFqHj7IvBoTTR1u0c0XWg)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devjeanpierre)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjeanpierre/?hl=es-la)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100068306010924)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanpierreSaldivar)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanpierresaldivar/)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
