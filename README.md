@@ -49,8 +49,11 @@
 
 - **IDEs**:
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" height="50" alt="androidstudio"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50" alt="idea"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png" width="50" height="50" alt="Xcode Icon">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="80" height="80" alt="androidstudio"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="80" height="80" alt="idea"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png" width="80" height="80" alt="Xcode Icon">
 
+- **Operating Systems**:
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="80" height="80" alt="windows"> <img src="https://logowik.com/content/uploads/images/mac-os.jpg" width="80" height="80" alt="macOs"> <img src="https://static.vecteezy.com/system/resources/previews/016/460/765/original/android-os-logo-top-operating-system-signs-free-png.png" width="80" height="80" alt="android"> <img src="https://logos-world.net/wp-content/uploads/2023/06/iOS-Symbol.png" width="80" height="80" alt="ios">
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
