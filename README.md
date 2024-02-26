@@ -14,18 +14,22 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanpierreSaldivar)
 
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/AVS1508.md ## Sobre mi
-✨ <b>Ingeniero de Sistemas</b> ✨
-📲 <b>Desarrollador Android Senior</b> con más de 5 años de experiencia en la creación de aplicaciones móviles innovadoras y centradas en el usuario. Especializado en la transformación de ideas complejas en soluciones digitales elegantes y funcionales.
+✨ <b> Systems Engineer </b> ✨
+📲 <b>Senior Android Developer</b>  with over 5 years of experience in creating innovative and user-centric mobile applications. Specialized in transforming complex ideas into elegant and functional digital solutions.
 
-🚀 Actualmente ampliando mi espectro técnico aprendiendo <b>Swift</b> para el desarrollo de aplicaciones iOS nativas, con el objetivo de dominar el ecosistema de aplicaciones móviles en múltiples plataformas.
+🚀 Currently expanding my technical spectrum by learning <b>Swift</b> for native iOS application development, aiming to master the mobile application ecosystem across multiple platforms.
 
-💡 Apasionado por las tecnologías emergentes, me encuentro explorando <b>Kotlin Multiplataforma</b> y <b>Jetpack Compose Multiplataforma</b> para optimizar el desarrollo de aplicaciones y aspirar a ser un <b>Kotlin Full Stack Developer</b>.
+💡 Passionate about emerging technologies, I am delving into <b>Kotlin Multiplatform</b> and <b>Jetpack Compose Multiplatform</b>  to optimize application development and aspire to become a <b>Kotlin Full Stack Developer</b>.
 
-🎥 Fuera del código, mi creatividad se manifiesta en la producción de videos de memes, tips y tutoriales de programación, compartiendo conocimientos y risas con una creciente comunidad en línea.
+🎥 Outside of coding, my creativity shines through in producing videos of memes, programming tips, and tutorials, sharing knowledge and laughter with a growing online community.
 
-🔍 <b>Eche un vistazo a mi currículum para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!</b>
+🔍 <b>Take a look at my resume for more details about me. I'm open to feedback and suggestions!</b>
 
-### ⚙️ &nbsp;GitHub Analytics
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 <p align="center">
 <a href="https://github.com/JeanpierreSaldivar">
