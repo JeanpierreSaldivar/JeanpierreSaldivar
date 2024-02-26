@@ -49,8 +49,8 @@
 
 - **IDEs**:
 
-![androidstudio](https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg)
-![idea](https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" height="50" alt="androidstudio">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50" alt="idea">
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png" width="50" height="50" alt="Xcode Icon">
 
 
