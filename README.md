@@ -13,8 +13,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100068306010924)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanpierreSaldivar)
 
-https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/AVS1508.md ## Sobre mi
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 ✨ <b> Systems Engineer </b> ✨
+
 📲 <b>Senior Android Developer</b>  with over 5 years of experience in creating innovative and user-centric mobile applications. Specialized in transforming complex ideas into elegant and functional digital solutions.
 
 🚀 Currently expanding my technical spectrum by learning <b>Swift</b> for native iOS application development, aiming to master the mobile application ecosystem across multiple platforms.
