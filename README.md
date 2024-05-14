@@ -58,9 +58,8 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b> Github Stats </b>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanpierreSaldivar&theme=swift&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanpierreSaldivar&layout=pie)](https://github.com/JeanpierreSaldivar/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeanpierreSaldivar)](https://github.com/JeanpierreSaldivar/github-readme-stats)
 
 
 
