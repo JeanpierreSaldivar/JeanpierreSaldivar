@@ -58,12 +58,9 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b> Github Stats </b>
-<p align="center">
-<a href="https://github.com/JeanpierreSaldivar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeanpierreSaldivar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+![](https://github.com/JeanpierreSaldivar/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/JeanpierreSaldivar/github-stats/blob/master/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanpierreSaldivar&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanpierreSaldivar&langs_count=8)
 
 
