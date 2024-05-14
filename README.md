@@ -58,9 +58,9 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b> Github Stats </b>
-![](https://github.com/JeanpierreSaldivar/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/JeanpierreSaldivar/github-stats/blob/master/generated/languages.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanpierreSaldivar&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
