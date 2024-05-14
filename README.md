@@ -57,7 +57,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="80" height="80" alt="windows"> <img src="https://logowik.com/content/uploads/images/mac-os.jpg" width="80" height="80" alt="macOs"> <img src="https://static.vecteezy.com/system/resources/previews/016/460/765/original/android-os-logo-top-operating-system-signs-free-png.png" width="80" height="80" alt="android"> <img src="https://logos-world.net/wp-content/uploads/2023/06/iOS-Symbol.png" width="80" height="80" alt="ios">
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b> Github Stats </b>
 <p align="center">
 <a href="https://github.com/JeanpierreSaldivar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeanpierreSaldivar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
